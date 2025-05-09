@@ -16,7 +16,7 @@ public class Student {
     }
 
     public static void main(String[] args) {
-        Student s = new Student("Shadrach Rafe Esin", "2023/259476", 89.5);
+        Student s = new Student("Joseph Ebuka David", "2023/254735", 89.5);
         s.displayInfo();
     }
 }
